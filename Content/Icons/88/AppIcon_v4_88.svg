@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/"
+	 xmlns:cc="http://creativecommons.org/ns#"
+	 xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	 xmlns:svg="http://www.w3.org/2000/svg"
+	 xmlns="http://www.w3.org/2000/svg"
+	 xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+	 xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+	 width="88"
+	 height="88"
+	 viewBox="0 0 88 87.999998"
+	 version="1.1"
+	 id="svg976"
+	 inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+	 sodipodi:docname="AppIcon_v4_88.svg"
+	 inkscape:export-filename="W:\VS 2019 Projects\RandomPasswordGenerator\RandomPasswordGenerator\Content\Icons\88\AppIcon_v4_88.png"
+	 inkscape:export-xdpi="120"
+	 inkscape:export-ydpi="120">
+	<defs id="defs970" />
+	<sodipodi:namedview id="base"
+						pagecolor="#ffffff"
+						bordercolor="#666666"
+						borderopacity="1.0"
+						inkscape:pageopacity="0.0"
+						inkscape:pageshadow="2"
+						inkscape:zoom="5.6"
+						inkscape:cx="26.135131"
+						inkscape:cy="27.312994"
+						inkscape:document-units="px"
+						inkscape:current-layer="layer1"
+						showgrid="false"
+						units="px"
+						fit-margin-top="0"
+						fit-margin-left="0"
+						fit-margin-right="0"
+						fit-margin-bottom="0"
+						inkscape:window-width="1920"
+						inkscape:window-height="1057"
+						inkscape:window-x="-8"
+						inkscape:window-y="-8"
+						inkscape:window-maximized="1" />
+	<metadata id="metadata973">
+		<rdf:RDF>
+			<cc:Work rdf:about="">
+				<dc:format>image/svg+xml</dc:format>
+				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+				<dc:title />
+			</cc:Work>
+		</rdf:RDF>
+	</metadata>
+	<g inkscape:label="Layer 1"
+	   inkscape:groupmode="layer"
+	   id="layer1"
+	   transform="translate(1256.8893,-192.61346)">
+		<g id="g834">
+			<g id="g4819"
+			   transform="matrix(0.35763241,0,0,0.35763269,-1114.8451,232.61468)">
+				<path style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.40761089;stroke-miterlimit:4;stroke-dasharray:none"
+					  d="m -397.17916,-77.112023 h 123.03125 123.03125 V 28.550239 134.2125 H -274.14791 -397.17916 V 28.550239 Z"
+					  id="rect6355"
+					  inkscape:connector-curvature="0"
+					  sodipodi:nodetypes="ccccccccc" />
+				<path style="opacity:1;fill:#7137c8;fill-opacity:1;stroke:none;stroke-width:1.06900418;stroke-miterlimit:4;stroke-dasharray:none"
+					  d="m -397.17937,-111.85001 v 34.737987 h 82.02083 82.02084 82.02083 v -34.737987 h -82.02083 -82.02084 z"
+					  id="rect6358"
+					  inkscape:connector-curvature="0" />
+				<g id="g4772"
+				   transform="translate(-1.4187012e-5,-4.1643379)">
+					<rect ry="0"
+						  y="-49.601368"
+						  x="-379.38406"
+						  height="83.188652"
+						  width="210.47234"
+						  id="rect4653"
+						  style="opacity:1;fill:#2d2d2d;fill-opacity:1;stroke:#ffffff;stroke-width:1.20137918;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+					<text transform="scale(0.75017652,1.3330196)"
+						  id="text4667"
+						  y="13.959906"
+						  x="-366.6304"
+						  style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:61.50378799px;line-height:1.25;font-family:'OCR A Extended';-inkscape-font-specification:'OCR A Extended';letter-spacing:0px;word-spacing:0px;fill:#d5ffe6;fill-opacity:1;stroke:none;stroke-width:1.28132892"
+						  xml:space="preserve"><tspan style="text-align:center;text-anchor:middle;fill:#d5ffe6;stroke-width:1.28132892"
+										  y="13.959906"
+										  x="-366.6304"
+										  id="tspan4665"
+										  sodipodi:role="line">*@$758</tspan></text>
+				</g>
+				<g id="g4807">
+					<rect style="opacity:1;fill:#0066ff;fill-opacity:1;stroke:#ffffff;stroke-width:1.04113019;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+						  id="rect4655"
+						  width="210.62553"
+						  height="62.430668"
+						  x="-379.46066"
+						  y="48.51564"
+						  ry="5.5832295" />
+					<text transform="scale(0.91541082,1.0924057)"
+						  id="text4679"
+						  y="84.820671"
+						  x="-299.32526"
+						  style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.4593277px;line-height:1.25;font-family:'OCR A Extended';-inkscape-font-specification:'OCR A Extended';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.78040266"
+						  xml:space="preserve"><tspan style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Calibri;-inkscape-font-specification:Calibri;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.78040266"
+										  y="84.820671"
+										  x="-299.32526"
+										  id="tspan4677"
+										  sodipodi:role="line">GENERATE</tspan></text>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>
